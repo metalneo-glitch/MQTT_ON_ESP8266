@@ -3,6 +3,11 @@ Prima di scoprire TASMOTA, ero io a scrivere i programmi per i miei sensori. Se 
 
 Voglio comunque condividere i miei programmi nel caso possano servire a qualcuno. Le cose secondo me più interessanti sono:
 
-    Settaggio degli inidirizzi IP
+    Collegamento tramite WIFI
+    Settaggio degli indirizzi IP
     Settaggio parametri server MQTT
     Pubblicazione dei dati sul topic MQTT corrispondente
+    Sottoscrizione a topic MQTT
+    Pubblicazione dati in formato JSON
+
+Sono tutti programmi più o meno funzionanti che possono andare bene come esempio per altri progetti o per capire come funzionano. Ho cercato di riordinare un po' il codice per renderlo vagamente leggibile ma sicuramente non aggiornerò niente dato che mi appoggio a tasmota per la gestione dei sensori.
